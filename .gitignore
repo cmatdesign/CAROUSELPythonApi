@@ -1,0 +1,10 @@
+*.egg
+__pycache__/
+*.egg-info/
+.venv/
+.vscode/
+Database/
+dist/*
+build/*
+src/carousel.egg-info/
+lua_functions.txt
